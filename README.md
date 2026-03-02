@@ -1,2 +1,2 @@
 # PowMan
-Full-stack power management project i did on my Erasmus student exchange
+Full-stack power management project we did on our Erasmus student exchange
