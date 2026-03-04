@@ -53,7 +53,12 @@ To run this project, you will need to add the following environment variables to
 
 ### :bangbang: Prerequisites
 
-- OS: Ubuntu 24.04 LTS (fresh installation recommended) Access: Root SSH access Control Panel: Virtualmin installed and configured Domain: A valid domain or subdomain (e.g., supabase.example.com) Hardware: Minimum: 4 GB RAM, 2 CPU cores, 50 GB SSD Recommended: 8 GB RAM, 4 CPU cores, 100 GB SSD Network: Ports 80 and 443 accessible
+- OS: Ubuntu 24.04 LTS (fresh installation recommended)
+- Access: Root SSH access
+- Control Panel: Virtualmin installed and configured
+- Domain: A valid domain or subdomain (e.g., supabase.example.com)
+- Hardware: Minimum: 4 GB RAM, 2 CPU cores, 50 GB SSD Recommended: 8 GB RAM, 4 CPU cores, 100 GB SSD
+- Network: Ports 80 and 443 accessible
 
 
 ## :compass: Roadmap
